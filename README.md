@@ -25,12 +25,12 @@
 ---
 
 ### 🔥 Recent Activity
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KxG&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=65011212003&theme=react-dark)
 
 ---
 
 ### 🎧 Currently Listening on Spotify
-![Spotify](https://raw.githubusercontent.com/31yolqlim6dbesgt4wbfiikwugi4/31yolqlim6dbesgt4wbfiikwugi4/main/spotify-card.png)
+![Spotify](https://raw.githubusercontent.com/KxG/KxG/main/spotify-card.png)
 
 
 <!-- 
