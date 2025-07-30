@@ -1,10 +1,10 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Chunpong Chan!
 
 🚀 Passionate about [e.g., Web Development, AI, Open Source]  
-🌍 Based in [Your Location]  
-💼 [Your Job Title / Student / Freelancer]  
-📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio](https://yourportfolio.com) | [Twitter/X](https://x.com/yourhandle)
+🌍 Based in Thailand 
+💼 [Student]  
+📫 How to reach me: [65011212003@msu.ac.th](mailto:65011212003@msu.ac.th)  
+🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio](https://yourportfolio.com)
 
 ---
 
@@ -18,21 +18,21 @@
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=65011212003&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=65011212003&layout=compact&theme=radical)
 
 ---
 
 ### 🔥 Recent Activity
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=65011212003&theme=react-dark)
 
 ---
 
 ### 🌟 Featured Projects
-- 🚀 [Project 1](https://github.com/your-username/project1) – A brief description
-- 💡 [Project 2](https://github.com/your-username/project2) – Another awesome tool
-- 🎯 [Project 3](https://github.com/your-username/project3) – Open source contribution
+- 🚀 [Project 1](https://github.com/65011212003/Project1) – A brief description
+- 💡 [Project 2](https://github.com/65011212003/Project2) – Another awesome tool
+- 🎯 [Project 3](https://github.com/65011212003/Project3) – Open source contribution
 
 ---
 
