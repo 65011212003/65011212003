@@ -28,6 +28,15 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=65011212003&theme=react-dark)
 
 
+### 🔥 Recent Activity
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ChunpongChan&theme=react-dark)
+
+---
+
+### 🎧 Currently Listening on Spotify
+![Spotify](https://raw.githubusercontent.com/ChunpongChan/ChunpongChan/main/spotify-card.png)
+
+
 <!-- 
 ### 🌟 Featured Projects
 - 🚀 [Project 1](https://github.com/65011212003/Project1) – A brief description
