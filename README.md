@@ -28,22 +28,22 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=65011212003&theme=react-dark)
 
 ---
-
+<!-- 
 ### 🌟 Featured Projects
 - 🚀 [Project 1](https://github.com/65011212003/Project1) – A brief description
 - 💡 [Project 2](https://github.com/65011212003/Project2) – Another awesome tool
-- 🎯 [Project 3](https://github.com/65011212003/Project3) – Open source contribution
+- 🎯 [Project 3](https://github.com/65011212003/Project3) – Open source contribution -->
 
 ---
 
-### 🤖 Auto-updated
+<!-- ### 🤖 Auto-updated
 This profile is updated automatically using GitHub Actions!  
-📅 Last updated: _{dynamic timestamp via workflow}_
+📅 Last updated: _{dynamic timestamp via workflow}_ -->
 
 ---
 
-### ❤️ Fun Fact
-> "I once wrote 1000 lines of code just to automate a 5-second task."
+<!-- ### ❤️ Fun Fact
+> "I once wrote 1000 lines of code just to automate a 5-second task." -->
 
 ---
 
