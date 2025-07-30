@@ -25,7 +25,7 @@
 ---
 
 ### 🔥 Recent Activity
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=65011212003&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KxG&theme=react-dark)
 
 ---
 
