@@ -30,7 +30,7 @@
 ---
 
 ### 🎧 Currently Listening on Spotify
-![Spotify](https://raw.githubusercontent.com/KxG/KxG/main/spotify-card.png)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31yolqlim6dbesgt4wbfiikwugi4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 <!-- 
