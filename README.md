@@ -4,7 +4,6 @@
 🌍 Based in Thailand 
 💼 [Student]  
 📫 How to reach me: [65011212003@msu.ac.th](mailto:65011212003@msu.ac.th)  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio](https://yourportfolio.com)
 
 ---
 
