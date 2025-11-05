@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Chunpong Chan!
 
 🚀 Passionate about [e.g., Web Development, AI, Open Source]  
-🌍 Based in Thailand 
+🌍 Based in Thailand [Currently Intern in Western Digital(Thailand)]
 💼 [Student]  
 📫 How to reach me: [65011212003@msu.ac.th](mailto:65011212003@msu.ac.th)  
 
